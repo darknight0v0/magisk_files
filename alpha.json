@@ -6,6 +6,7 @@
     "link64": "https://github.com/darknight0v0/magisk_files/blob/master/app-release.apk?raw=true",
     "note": "https://raw.githubusercontent.com/vvb2060/Magisk/alpha/app/src/main/res/raw/changelog.md"
   },
+  
   "stub": {
     "versionCode": "21",
     "link": "stub-release.apk"
