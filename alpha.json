@@ -2,8 +2,8 @@
   "magisk": {
     "version": "48df6b84-alpha",
     "versionCode": "23011",
-    "link": "https://raw.githubusercontent.com/pzcn/magisk_files/alpha/app-release.apk",
-    "link64": "https://raw.githubusercontent.com/pzcn/magisk_files/alpha/app-release.apk",
+    "link": "https://github.com/darknight0v0/magisk_files/blob/master/app-release.apk",
+    "link64": "https://github.com/darknight0v0/magisk_files/blob/master/app-release.apk",
     "note": "https://raw.githubusercontent.com/vvb2060/Magisk/alpha/app/src/main/res/raw/changelog.md"
   },
   "stub": {
