@@ -1,6 +1,6 @@
 {
   "magisk": {
-    "version": "76ddfeb9-alpha",
+    "version": "d021bca6-alpha",
     "versionCode": "23016",
     "link": "https://github.com/darknight0v0/magisk_files/blob/master/app-release.apk?raw=true",
     "link64": "https://github.com/darknight0v0/magisk_files/blob/master/app-release.apk?raw=true",
@@ -8,7 +8,7 @@
   },
   
   "stub": {
-    "versionCode": "23",
+    "versionCode": "24",
     "link": "stub-release.apk"
   }
 }
